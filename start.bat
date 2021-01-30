@@ -1,1 +1,1 @@
-java -Xms6G -Xmx6G -jar minecraft_server.jar nogui
+java -Xms6G -Xmx6G -jar forge-1.16.4-35.1.37.jar
