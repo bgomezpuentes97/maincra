@@ -1,0 +1,40 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "seasonal_pumpkin_patch": "2021-01-29 21:27:03 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "seasonal_pumpkin_patch": "2021-01-29 21:27:03 -0500",
+      "bamboo_blossom_grove": "2021-01-29 21:30:19 -0500",
+      "seasonal_orchard": "2021-01-29 21:27:53 -0500",
+      "seasonal_forest": "2021-01-29 21:27:05 -0500",
+      "ominous_woods": "2021-01-29 21:28:13 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-01-29 21:29:32 -0500"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2021-01-29 21:26:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-01-29 21:26:23 -0500",
+      "minecraft:taiga": "2021-01-29 21:28:10 -0500",
+      "minecraft:river": "2021-01-29 21:27:01 -0500",
+      "minecraft:wooded_hills": "2021-01-29 21:27:33 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
