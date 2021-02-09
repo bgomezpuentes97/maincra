@@ -9,5 +9,5 @@
 	#Enable/Disable collapsing blocks.
 	collapse = true
 	#Enable/Disable dropping blocks.
-	dropBlocks = true
+	dropBlocks = false
 
