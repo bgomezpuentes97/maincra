@@ -1,0 +1,13 @@
+
+[Server]
+	#Maximum number of collapsing block events that get caused by one update.
+	#Range: 1 ~ 5000
+	maxCollapseObjects = 1
+	#Collapsing speed in ticks. 0 means instant collapse.
+	#Range: 0 ~ 500
+	collapseSpeed = 10
+	#Enable/Disable collapsing blocks.
+	collapse = true
+	#Enable/Disable dropping blocks.
+	dropBlocks = true
+
