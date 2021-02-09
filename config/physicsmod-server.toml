@@ -7,7 +7,7 @@
 	#Range: 0 ~ 500
 	collapseSpeed = 10
 	#Enable/Disable collapsing blocks.
-	collapse = true
+	collapse = false
 	#Enable/Disable dropping blocks.
-	dropBlocks = false
+	dropBlocks = true
 
